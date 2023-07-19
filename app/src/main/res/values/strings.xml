@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VisitingCardBD</string>
+    <string name="name">Bijoy Chandra Debnath</string>
+    <string name="designation">Project Manager</string>
+    <string name="education">MSc.(JU), B.Sc(PU)</string>
+    <string name="call_des">Call Icon</string>
+    <string name="mobile_number">01639-762025</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="email">bijoycsepu@gmail.com</string>
+    <string name="front_side">Front Side</string>
+    <string name="address">Dhaka, Bangladesh</string>
+    <string name="back_side">Back Side</string>
+    <string name="ofc_address">House #629-685, Road # 12, Baitul Aman Housing Society, Adabor, Mohammadpur, Dhaka-1207, BD.</string>
+    <string name="office_logo">Office Logo</string>
+    <string name="visiting_card_details">Visiting Card Details of Bijoy</string>
+    <string name="share">Share</string>
+</resources>
