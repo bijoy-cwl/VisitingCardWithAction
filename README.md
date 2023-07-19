@@ -7,8 +7,8 @@
 # An In MainActivity the Intent is using for Call, email, Map and data share
 
 # -------Output-------
-![alt text](https://github.com/bijoy-cwl/visiting_card/blob/main/screenshots/s1.jpg)
-![alt text](https://github.com/bijoy-cwl/visiting_card/blob/main/screenshots/s2.jpg)
-![alt text](https://github.com/bijoy-cwl/visiting_card/blob/main/screenshots/s3.jpg)
-![alt text](https://github.com/bijoy-cwl/visiting_card/blob/main/screenshots/s4.jpg)
-![alt text](https://github.com/bijoy-cwl/visiting_card/blob/main/screenshots/s5.jpg)
+![alt text](https://github.com/bijoy-cwl/VisitingCardWithAction/blob/main/screenshots/s1.jpg)
+![alt text](https://github.com/bijoy-cwl/VisitingCardWithAction/blob/main/screenshots/s2.jpg)
+![alt text](https://github.com/bijoy-cwl/VisitingCardWithAction/blob/main/screenshots/s3.jpg)
+![alt text](https://github.com/bijoy-cwl/VisitingCardWithAction/blob/main/screenshots/s4.jpg)
+![alt text](https://github.com/bijoy-cwl/VisitingCardWithAction/blob/main/screenshots/s5.jpg)
